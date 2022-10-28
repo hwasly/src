@@ -27,7 +27,7 @@
 # $FreeBSD$
 
 clear
-echo "OPNsense Installer"
+echo "HWasly Installer"
 echo "=================="
 echo
 
